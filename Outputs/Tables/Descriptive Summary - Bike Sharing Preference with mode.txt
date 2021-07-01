@@ -1,0 +1,33 @@
+                 mode
+ [1,] Numeric,32 2   
+ [2,] Numeric,32 23  
+ [3,] Numeric,32 1   
+ [4,] Numeric,32 1   
+ [5,] Numeric,32 2   
+ [6,] Numeric,32 1   
+ [7,] Numeric,32 40  
+ [8,] Numeric,32 1   
+ [9,] Numeric,32 2   
+[10,] Numeric,32 0   
+[11,] Numeric,32 2   
+[12,] Numeric,32 1   
+[13,] Numeric,32 1   
+[14,] Numeric,32 1   
+[15,] Numeric,32 2   
+[16,] Numeric,32 6   
+[17,] Numeric,32 1   
+[18,] Numeric,32 4   
+[19,] Numeric,32 4   
+[20,] Numeric,32 4   
+[21,] Numeric,32 3   
+[22,] Numeric,32 1   
+[23,] Numeric,32 1   
+[24,] Numeric,32 1   
+[25,] Numeric,32 4   
+[26,] Numeric,32 4   
+[27,] Numeric,32 4   
+[28,] Numeric,32 4   
+[29,] Numeric,32 5   
+[30,] Numeric,32 2   
+[31,] Numeric,32 4   
+[32,] Numeric,32 4   

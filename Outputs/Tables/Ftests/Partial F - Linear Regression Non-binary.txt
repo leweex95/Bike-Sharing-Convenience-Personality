@@ -1,0 +1,11 @@
+Analysis of Variance Table
+
+Model 1: Sharing ~ f.Bikeown + Income + Neighbourhood01 + DepotDist + 
+    Neuroticism + Openness + Income:f.Bikeown
+Model 2: Sharing ~ f.Bikeown + Income + Neighbourhood01 + DepotDist + 
+    Neuroticism + Openness + Income:f.Bikeown + f.Gender + Age + 
+    f.Job + f.Jobtype + WorkHours + f.Transport + f.Commutedist + 
+    f.Car + f.Bikelease + f.SharingLocPref + f.DepotInStation
+  Res.Df    RSS Df Sum of Sq      F Pr(>F)
+1    104 153.47                           
+2     83 116.42 21    37.057 1.2581 0.2283

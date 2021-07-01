@@ -1,0 +1,11 @@
+Analysis of Variance Table
+
+Model 1: binSharing ~ f.Bikeown + Income + Neighbourhood01 + DepotDist + 
+    Neuroticism + Openness
+Model 2: binSharing ~ f.Bikeown + Income + Neighbourhood01 + DepotDist + 
+    Neuroticism + Openness + f.Gender + Age + f.Job + f.Jobtype + 
+    WorkHours + f.Transport + f.Commutedist + f.Car + f.Bikelease + 
+    f.SharingLocPref + f.DepotInStation
+  Res.Df    RSS Df Sum of Sq     F Pr(>F)
+1     72 15.092                          
+2     51 10.582 21    4.5098 1.035 0.4426

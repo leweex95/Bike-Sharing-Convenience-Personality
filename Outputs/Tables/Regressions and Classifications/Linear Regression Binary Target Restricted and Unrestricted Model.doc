@@ -1,0 +1,69 @@
+
+<table style="text-align:center"><caption><strong>Linear regression results of restricted and unrestricted models for binSharing target</strong></caption>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="2">binSharing</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Constant</td><td>0.101</td><td>-0.236</td></tr>
+<tr><td style="text-align:left"></td><td>(0.414)</td><td>(0.612)</td></tr>
+<tr><td style="text-align:left">f.BikeownYes</td><td>0.163</td><td>-0.013</td></tr>
+<tr><td style="text-align:left"></td><td>(0.120)</td><td>(0.152)</td></tr>
+<tr><td style="text-align:left">Income</td><td>-0.007<sup>**</sup></td><td>-0.011<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.003)</td><td>(0.006)</td></tr>
+<tr><td style="text-align:left">Neighbourhood01</td><td>0.039</td><td>-0.014</td></tr>
+<tr><td style="text-align:left"></td><td>(0.046)</td><td>(0.062)</td></tr>
+<tr><td style="text-align:left">DepotDist</td><td>-0.007</td><td>-0.007</td></tr>
+<tr><td style="text-align:left"></td><td>(0.006)</td><td>(0.008)</td></tr>
+<tr><td style="text-align:left">Neuroticism</td><td>-0.112<sup>*</sup></td><td>-0.076</td></tr>
+<tr><td style="text-align:left"></td><td>(0.059)</td><td>(0.069)</td></tr>
+<tr><td style="text-align:left">Openness</td><td>0.201<sup>**</sup></td><td>0.184<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.087)</td><td>(0.097)</td></tr>
+<tr><td style="text-align:left">f.GenderFemale</td><td></td><td>0.023</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.131)</td></tr>
+<tr><td style="text-align:left">Age</td><td></td><td>0.020<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.009)</td></tr>
+<tr><td style="text-align:left">f.JobNo</td><td></td><td>0.070</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.260)</td></tr>
+<tr><td style="text-align:left">f.JobtypeWorking Student</td><td></td><td>-0.005</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.310)</td></tr>
+<tr><td style="text-align:left">f.JobtypeIntern</td><td></td><td>-0.006</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.333)</td></tr>
+<tr><td style="text-align:left">f.JobtypeFull-time</td><td></td><td>-0.108</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.324)</td></tr>
+<tr><td style="text-align:left">f.JobtypePart-time</td><td></td><td>-0.822<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.406)</td></tr>
+<tr><td style="text-align:left">f.JobtypeUnemployed</td><td></td><td>0.410</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.527)</td></tr>
+<tr><td style="text-align:left">f.JobtypeSelf-employed and Part-time</td><td></td><td>-0.761</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.559)</td></tr>
+<tr><td style="text-align:left">WorkHours</td><td></td><td>0.002</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.006)</td></tr>
+<tr><td style="text-align:left">f.TransportCar</td><td></td><td>-0.274</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.273)</td></tr>
+<tr><td style="text-align:left">f.TransportPublic</td><td></td><td>-0.103</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.185)</td></tr>
+<tr><td style="text-align:left">f.TransportWalking</td><td></td><td>-0.037</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.201)</td></tr>
+<tr><td style="text-align:left">f.Commutedist1-5 km</td><td></td><td>-0.209</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.192)</td></tr>
+<tr><td style="text-align:left">f.Commutedist5-10 km</td><td></td><td>0.016</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.228)</td></tr>
+<tr><td style="text-align:left">f.CommutedistMore than 10 km</td><td></td><td>0.059</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.294)</td></tr>
+<tr><td style="text-align:left">f.CarYes</td><td></td><td>0.154</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.253)</td></tr>
+<tr><td style="text-align:left">f.BikeleaseYes</td><td></td><td>0.230</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.175)</td></tr>
+<tr><td style="text-align:left">f.SharingLocPrefAt the depot</td><td></td><td>0.026</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.199)</td></tr>
+<tr><td style="text-align:left">f.SharingLocPrefBoth</td><td></td><td>0.181</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.156)</td></tr>
+<tr><td style="text-align:left">f.DepotInStationYes</td><td></td><td>0.038</td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.138)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>79</td><td>79</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.226</td><td>0.457</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.161</td><td>0.170</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>0.458 (df = 72)</td><td>0.456 (df = 51)</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>3.500<sup>***</sup> (df = 6; 72)</td><td>1.591<sup>*</sup> (df = 27; 51)</td></tr>
+<tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

@@ -1,0 +1,16 @@
+
+<table style="text-align:center"><caption><strong>Classification Performance Restricted and Unrestricted Models</strong></caption>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td></td><td>LinReg</td><td>Tree</td><td>Logit</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td>Accuracy</td><td>0.576</td><td>0.545</td><td>0.576</td></tr>
+<tr><td>Sensitivity</td><td>0.538</td><td>0.462</td><td>0.538</td></tr>
+<tr><td>Specificity</td><td>0.600</td><td>0.600</td><td>0.600</td></tr>
+<tr><td>Precision</td><td>0.467</td><td>0.429</td><td>0.467</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr></table>
+
+<table style="text-align:center"><caption><strong>Classification Performance Restricted and Unrestricted Models</strong></caption>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td></td><td>LinReg</td><td>Tree</td><td>Logit</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td>Accuracy</td><td>0.667</td><td>0.576</td><td>0.758</td></tr>
+<tr><td>Sensitivity</td><td>0.615</td><td>0.538</td><td>0.692</td></tr>
+<tr><td>Specificity</td><td>0.700</td><td>0.600</td><td>0.800</td></tr>
+<tr><td>Precision</td><td>0.571</td><td>0.467</td><td>0.692</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr></table>

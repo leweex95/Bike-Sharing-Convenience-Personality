@@ -1,0 +1,5 @@
+ raw_alpha
+ 0.4289466
+                 raw_alpha std.alpha    G6(smc) average_r S/N alpha se      var.r     med.r
+Neighbourhood01 0.27311716 0.2731172 0.07459298 0.2731172  NA       NA 0.27311716 0.2731172
+Neighbourhood02 0.07459298 0.2731172         NA        NA  NA       NA 0.07459298 0.2731172
